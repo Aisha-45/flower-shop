@@ -13,10 +13,14 @@
     justify-content: space-between;
     background-color: rgba(229, 84, 115, 0.12);
 }
+.flower-text{
+    margin-right: 40px;
+}
 .flower-text h1 {
     font-size: 50px;
     color: #272727;
     margin-bottom: 10px;
+    font-weight: bolder;
 }
 .flower-text p{
     color: rgb(151, 142, 142);
@@ -30,4 +34,40 @@
     background-color: #E55473;
     color: white;
     font-size: 15px;
+}
+.feature{
+    margin: 100px auto;
+}
+.feature-text{
+    align-items: center;
+    text-align: center;
+}
+.feature-text p{
+    color:rgb(151, 142, 142) ;
+}
+.feature-img{
+   align-items: center;
+   margin: 60px 150px;
+}
+.pink{
+    background-color: rgba(167, 33, 98, 0.15);
+    width: 300px;
+    padding: 60px 30px 0; 
+    border-radius: 200px 200px 0 0;
+    margin-left: 5px;
+    height: 400px;
+}
+.blue{
+    background-color: rgba(5, 151, 160, 0.15);
+    width: 300px;
+    border-radius: 200px 200px 0 0;
+    height: 400px;
+    padding-top: 54px;
+}
+.gray{
+    background-color: rgba(71, 125, 17, 0.15);
+    width: 300px;
+    padding: 40px 20px 0 ;
+    border-radius: 200px 200px 0 0;
+    height: 400px;
 }
